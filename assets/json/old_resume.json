@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "G. Sean Escola",
+    "label": "Computational neuroscientist. Entrepreneur. Psychiatrist.",
+    "image": "Sean.jpeg",
+    "email": "sean.escola@gmail.com",
+    "phone": "+1 (917) 587-4371",
+    "url": "https://seanslice.github.io/",
+    "summary": "Pursuing natural and artificial intelligence",
+    "location": {
+      "address": "3227 Broadway",
+      "postalCode": "NY 10027",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Columbia University",
+      "location": "New York, NY",
+      "position": "Assistant Professor of Psychiatry",
+      "startDate": "2014",
+      "summary": "Research and teaching in computational neuroscience.",
+      "highlights": ["Courses: Intro and advanced theoretical neuroscience", "$4M in federal grants", "Leon Levy Fellow"]
+    },
+    {
+      "name": "ColumbiaDoctors",
+      "location": "New York, NY",
+      "position": "Psychiatrist",
+      "startDate": "2022",
+      "url": "https://www.columbiapsychiatry.org/profile/g-s-escola-md",
+      "summary": "Outpatient clinical care in the Columbia Faculty Practice.",
+      "highlights": ["General psychiatry: depression, anxiety, ADHD, etc.", "Supportive and psychodynamic psychotherapy"]
+    },
+    {
+      "name": "Fauna Robotics, Inc.",
+      "location": "New York, NY",
+      "position": "Co-founder",
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "https://www.linkedin.com/company/fauna-robotics",
+      "summary": "Strategy, vision setting, and fundraising for consumer-facing embodied intelligence company.",
+      "highlights": ["Recruited founding team", "Raised initial seed financing"]
+    },
+    {
+      "name": "Herophilus, Inc.",
+      "location": "San Francisco, CA",
+      "position": "Co-founder and founding CEO",
+      "startDate": "2017",
+      "endDate": "2023",
+      "url": "https://www.herophilus.com/",
+      "summary": "Strategy, fundraising, executive leadership for a neurotech drug discovery company.",
+      "highlights": ["2017–2020: CEO", "2018: $30M Series A", "2023: Acquired by Genentech"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Neuromatch, Inc.",
+      "location": "Worldwide",
+      "position": "Co-founder",
+      "startDate": "2020",
+      "url": "https://www.neuromatch.io",
+      "summary": "Strategy, vision setting, and fundraising for a non-profit whose mission is to increase global equity and inclusion in advanced fields of computational science.",
+      "highlights": ["2020–2024: Board member", "Led $2M fundraise for first two years of operations"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University, Columbia College",
+      "location": "New York, NY",
+      "url": "https://www.college.columbia.edu/",
+      "area": "Biochemistry and Computer Science",
+      "startDate": "1997",
+      "endDate": "2001",
+      "studyType": "Bachelor of Arts"
+    },
+    {
+      "institution": "Columbia University, School of Engineering and Applied Science",
+      "location": "New York, NY",
+      "url": "https://www.engineering.columbia.edu/",
+      "area": "Computer Science",
+      "startDate": "2001",
+      "endDate": "2003",
+      "studyType": "Master of Science"
+    },
+    {
+      "institution": "Columbia University, College of Physicians and Surgeons",
+      "location": "New York, NY",
+      "url": "https://www.vagelos.columbia.edu/",
+      "area": "Computational neuroscience",
+      "startDate": "2003",
+      "endDate": "2010",
+      "studyType": "Doctor of Medicine and Doctor of Philosophy"
+    },
+    {
+      "icon": "fa-solid fa-university",
+      "institution": "Columbia University – New York State Psychiatric Institute",
+      "location": "New York, NY",
+      "url": "https://www.columbiapsychiatry.org/",
+      "area": "Adult Psychiatry",
+      "startDate": "2010",
+      "endDate": "2014",
+      "studyType": "Residency"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "2008: Boston Marathon",
+        "2012: Walt Disney World Marathon",
+        "2014: New York City Marathon",
+        "2016: Burning Man Ultra-marathon",
+        "2017: Burning Man Ultra-marathon"
+      ]
+    },
+    {
+      "name": "Music, theater, and dance",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "2003-2010: Bard Hall Players",
+        "2008-2010: Swing Dance Performance Troupe",
+        "2011-2013: Bach Society, Tenor"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate",
+      "icon": ""
+    }
+  ]
+}
