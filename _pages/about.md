@@ -27,7 +27,7 @@ I have co-founded two companies and one non-profit:
 2. [Herophilus](https://www.herophilus.com) is a biotechnology company that combined patient-derived stem cell cultures ("organoids") with advanced neuroassays and machine learning for drug discovery. As founding CEO in 2017–2020, I raised $30M in venture financing and hired a team of >40 scientists. Herophilus's technology was sold to Genentech in 2023.
 3. [Neuromatch](https://neuromatch.io/) is a worldwide 501(c)3 non-profit that is democratizing science by providing high quality education, targeted interactions, career support, and open publishing with zero financial barrier to entry for all. I raised $2M in philanthropy for initial operating capital in 2020–2021 and I served on the Board of Directors (2020–2024).
 
-I am a clinical psychiatrist and I see adult patients for medication management and psychotherapy.
+I am a clinical psychiatrist and I see adult patients for medication management and psychodynamic psychotherapy.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
