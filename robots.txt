@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seanslice.github.io/sitemap.xml
+Sitemap: https://sean-escola.github.io/sitemap.xml
