@@ -28,16 +28,17 @@
         "location": "New York, NY",
         "position": "Assistant Professor of Psychiatry",
         "startDate": "2014",
+        "endDate": "2024",
         "summary": "Research and teaching in computational neuroscience.",
         "highlights": ["Courses: Intro and advanced theoretical neuroscience", "$4M in federal grants", "Leon Levy Fellow"]
       },
       {
-        "name": "ColumbiaDoctors",
+        "name": "Private practice",
         "location": "New York, NY",
         "position": "Psychiatrist",
-        "startDate": "2022",
+        "startDate": "2014",
         "url": "https://www.columbiapsychiatry.org/profile/g-s-escola-md",
-        "summary": "Outpatient clinical care in the Columbia Faculty Practice.",
+        "summary": "Outpatient clinical care.",
         "highlights": ["General psychiatry: depression, anxiety, ADHD, etc.", "Supportive and psychodynamic psychotherapy"]
       },
       {
@@ -45,7 +46,7 @@
         "location": "New York, NY",
         "position": "Co-founder",
         "startDate": "2023",
-        "endDate": "2024",
+        // "endDate": "2024",
         "url": "https://www.linkedin.com/company/fauna-robotics",
         "summary": "Strategy, vision setting, and fundraising for consumer-facing embodied intelligence company.",
         "highlights": ["Recruited founding team", "Raised initial seed financing"]
