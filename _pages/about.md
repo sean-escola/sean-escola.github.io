@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Neuroscience. AI. Psychiatry.
 
-I am a former assistant professor of psychiatry and affiliate of the Center for Theoretical Neuroscience at [Columbia University](https://www.columbia.edu). My research studies how natural intelligence can inform artificial intelligence, specifically by examining the neural circuit computations that underlie motor control and learning. I also study neural network theory and the circuit mechanisms underlying psychopathology.
+I am a computational neuroscientist and psychiatrist, formerly Assistant Professor in the [Department of Psychiatry](https://www.columbiapsychiatry.org/profile/g-s-escola-md) and affiliate of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). My research studies how natural intelligence can inform artificial intelligence, specifically by examining the neural circuit computations that underlie motor control and learning. I also study neural network theory and the circuit mechanisms underlying psychopathology.
 
 I have co-founded two companies and one non-profit:
 1. [Fauna Robotics](https://www.linkedin.com/company/fauna-robotics/) is an embodied AI company that builds highly agile, dexterous, natural language-capable consumer-facing companion robots. I helped raise Fauna's seed financing in January 2024 and set vision for the company.
